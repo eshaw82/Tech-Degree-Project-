@@ -1,2 +1,2 @@
-# Tech Degree Project 
+# Techdegree Project
  Personal Profile Page

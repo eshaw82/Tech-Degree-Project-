@@ -59,7 +59,7 @@ header {
   text-align: center;
   background: url('images/glasgow.jpg') no-repeat top center ;
   background-size: auto;
-  overflow: hidden;
+  overflow: visible;
   padding-top: 60px;
 }
 header {
@@ -99,7 +99,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #9ebc9f;
 }
 
 ul.skills {
@@ -117,7 +117,7 @@ ul.skills {
 }
 
 .skills li:nth-child(odd) {
-  background: #0399ff;
+  background: #9ebc9f;
 }
 
 footer {
